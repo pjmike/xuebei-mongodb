@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="xuebei">
+    <output-path>$PROJECT_DIR$/out/artifacts/xuebei</output-path>
+    <root id="archive" name="xuebei.war" />
+  </artifact>
+</component>
